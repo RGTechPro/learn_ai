@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "758423789155",
+    "project_id": "learnai-5fcd0",
+    "storage_bucket": "learnai-5fcd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758423789155:android:a65588c5d304b8e1b6a256",
+        "android_client_info": {
+          "package_name": "com.example.learn_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758423789155-1ke4tl0bd3q8cnojolnkdup02fdh7jmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learn_ai",
+            "certificate_hash": "7ba0925b6b8ed8286dc77bd1a855d631998a6f54"
+          }
+        },
+        {
+          "client_id": "758423789155-mkvvti4qvf06lcd3pvpnse68p27cg4o1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learn_ai",
+            "certificate_hash": "0353db340c756d017d204518ff7777ba0f68f70e"
+          }
+        },
+        {
+          "client_id": "758423789155-l3punst2qmngbakime4fm7sndl7ihu1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXL7h1nGefaHLIttS_ccYVigF7bBPl5uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758423789155-l3punst2qmngbakime4fm7sndl7ihu1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
